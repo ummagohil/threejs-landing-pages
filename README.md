@@ -5,9 +5,9 @@ This will be part of a mono repo of landing pages that use Three.js.
 User can see different use cases of landing pages using Three.js in different repos. 
 
 ### 👩‍💻Technical Details
-React
-TypeScript
-Three.js
+- React
+- TypeScript
+- Three.js
 
 ### 💻Code
 [TO DO]
